@@ -1,4 +1,4 @@
-package demos
+package demos.android.grid.layout.demo
 
 import android.os.Bundle
 import android.widget.Button
